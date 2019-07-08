@@ -1,2 +1,2 @@
 # Toy Horse Conjoint Experiment
-Segmentation and market simulation analysis for toy horse
+Conjoint Analysis/Segmentation/Market Simulation/Product Strategy/Pricing Strategy
