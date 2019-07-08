@@ -1,2 +1,2 @@
-# Toyhorse-Segmentation
-Segmentation and market simulation analysis for toyhorse
+# Toy Horse Conjoint Experiment
+Segmentation and market simulation analysis for toy horse
